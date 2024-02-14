@@ -1,0 +1,19 @@
+Analysis Summary:
+Health factors Age, Systolic BP, Diastolic BP and Blood Sugar affect the risk level of pregnancy. 
+Body temperature and heart rate do not affect risk levels.
+
+Following Patterns / Trends were observed:
+    - Pregnancy risk level increases when Systolic blood pressure > 120mmHg 
+    - Pregnancy risk level increases when Diastolic blood pressure > 80mmHg 
+    - Pregnancy risk level increases when blood sugar level > 8mmol/L
+    - Pregnancy risk level increases with increase in age
+    
+Correlation between health variables:
+    - Systolic BP and Diastolic BP has a has a strong positive linear relationship
+    - Age and Systolic BP has a weak positive linear relationship
+    - Age and Blood Sugar has a weak positive linear relationship 
+    - Blood sugar and Systolic BP has a weak positive linear relationship 
+    - Blood sugar and Diastolic BP has a a weak positive linear relationship 
+    - Heart rate and Blood sugar has a very weak positive linear relationship 
+    - Body temperature and Blood sugar had no relationship
+
